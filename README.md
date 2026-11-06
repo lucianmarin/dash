@@ -1,4 +1,6 @@
-# Dash 1.0
+# Dash
+
+![screenshot](screenshot.jpg)
 
 Dash is a PHP lifestream aggregator that displays your latest online activity and bookmarked/liked items in a two-column layout (`My Stuff` and `Things I Like`).
 
